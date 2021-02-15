@@ -1,7 +1,7 @@
 {
   "name": "Eleventy Duo",
   "description": "This a website deployed by Github Actions!?",
-  "url": "https://eleventyduo.netlify.app",
+  "url": "https://goliveira.github.io/test-deploy/",
   "author": {
     "name": "Guilherme Oliveira",
     "email": "author@site.com",
