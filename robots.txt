@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://goliveira.github.io/test-deploy//sitemap.xml
+Sitemap: https://goliveira.dev/test-deploy//sitemap.xml
