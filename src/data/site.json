@@ -1,7 +1,7 @@
 {
-  "name": "Eleventy Duo",
+  "name": "Published by Github Actions!",
   "description": "This a website deployed by Github Actions!?",
-  "url": "https://goliveira.github.io/test-deploy/",
+  "url": "https://goliveira.dev/test-deploy/",
   "author": {
     "name": "Guilherme Oliveira",
     "email": "author@site.com",

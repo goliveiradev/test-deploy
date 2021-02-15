@@ -19,7 +19,7 @@ jobs:
         run: yarn build 
         env:
           REPO_URL: https://github.com/goliveiradev/test-deploy/
-          WEB_ROOT_URL: https://goliveira.github.io/test-deploy/
+          WEB_ROOT_URL: https://goliveira.dev/test-deploy/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
