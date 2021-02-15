@@ -1,9 +1,9 @@
 {
   "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
+  "description": "This a website deployed by Github Actions!?",
   "url": "https://eleventyduo.netlify.app",
   "author": {
-    "name": "Author Name",
+    "name": "Guilherme Oliveira",
     "email": "author@site.com",
     "twitterHandle": "author_handle"
   },
