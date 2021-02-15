@@ -16,7 +16,7 @@ jobs:
 
       - run: yarn install
       - name: Build Eleventy
-        run: yarn build
+        run: yarn build 
         env:
           REPO_URL: https://github.com/goliveira/eleventy-base-blog/
           WEB_ROOT_URL: https://goliveira.github.io/
